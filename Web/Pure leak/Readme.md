@@ -6,3 +6,6 @@ Just leak it!
     Admin bot: http://pure-leak.asisctf.com:1337
 
 Please download the attachment!
+
+
+https://blog.arkark.dev/2025/09/08/asisctf-quals
