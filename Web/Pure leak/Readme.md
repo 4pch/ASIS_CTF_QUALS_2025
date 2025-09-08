@@ -7,6 +7,6 @@ Just leak it!
 
 Please download the attachment!
 
-# Writeup
+# Author's writeup
 
 https://blog.arkark.dev/2025/09/08/asisctf-quals
