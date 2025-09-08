@@ -7,3 +7,7 @@ If you want to enjoy the service 100%, find a way to get a user account.
 "[22:11:12] => Worty: Oups i forgot to check that users are allowed to get the first flag.. i will patch it and sorry for that!"
 
 Download the attachment!
+
+# Writeup
+
+https://rizfol.github.io/posts/asis-ctf-2025/scrapscrap1and2/
