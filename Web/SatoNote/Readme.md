@@ -7,3 +7,7 @@ Can you outsmart the LLM and prove me wrong?
 Note: Please obtain the flag locally before trying it on the production environment.
 
 So find a the flag by exploring this service: http://65.109.184.196:8000
+
+# Writeup
+
+https://github.com/satoki/asis_ctf_quals_2025_satoki_writeups/tree/main/Web/SatoNote
